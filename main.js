@@ -1,4 +1,6 @@
 hello = () => return "hey"
 
 
-function bye() { return "bye" }
+function bye() { 
+  return "bye" 
+}
